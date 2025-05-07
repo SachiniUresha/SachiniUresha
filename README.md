@@ -32,10 +32,13 @@ Here are some ideas to get you started:
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode" />
 </p>
 
 ---
