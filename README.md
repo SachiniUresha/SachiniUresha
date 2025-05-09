@@ -4,9 +4,9 @@
   🚀 Passionate Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud Learner | ✍️ Tech Blogger
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=f00&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new.;Love+building+cool+things." alt="Typing SVG" />
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=f00&width=400&lines=Welcome+to+my+GitHub!;Always+learn+new+things...;Love+building+cool+things..." alt="Typing SVG" />
+</h2>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sachiniuresha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
