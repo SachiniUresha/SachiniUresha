@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FEEF&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new.;Love+building+cool+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=f00&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new.;Love+building+cool+things." alt="Typing SVG" />
 </p>
-
-
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sachiniuresha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,14 +16,11 @@
 
 ### 🧑‍💻 About Me
 
-
-- 🎓 I'm a third-year Software Engineering undergraduate at the University of Kelaniya.
-
-- 💻 I'm passionate about full-stack development, DevOps, and cloud technologies.
-
-- 🛠️ I enjoy learning new tools and frameworks to build better solutions.
-
+- 🎓 I'm a third-year Software Engineering undergraduate at the University of Kelaniya.  
+- 💻 I'm passionate about full-stack development, DevOps, and cloud technologies.  
+- 🛠️ I enjoy learning new tools and frameworks to build better solutions.  
 - ✍️ I blog to share knowledge and grow with the tech community.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -67,31 +62,38 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
-<!-- GitHub Stats Card with Streak and Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachiniuresha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniuresha&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiniuresha&layout=compact&theme=radical" alt="Top Languages" />
-  
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sachiniuresha&show_icons=true&theme=radical" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniuresha&theme=radical" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiniuresha&layout=compact&theme=radical" height="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:dsuweerakkody19@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://medium.com/@yourmedium" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" />
-  </a>
-</p>
+### 🚀 Featured Projects
+
+- 🔗 [My Portfolio Website](https://github.com/username/portfolio) – Personal website built with HTML and CSS.  
+- 🛒 [E-Commerce App](https://github.com/username/ecommerce-app) – MERN stack e-commerce app with admin dashboard.
 
 ---
 
-### 🙏 Thank you for visiting my profile! ⭐ Don’t forget to follow me!
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachini-weerakkody-843b392a3)  
+- 📧 [Email](mailto:dsuweerakkody19@gmail.com)  
+- 📝 [Medium](https://medium.com/@dsuweerakkody19)
+
+---
+
+### 🙏 Thank you for visiting my profile! 🌟 Don’t forget to follow me!
