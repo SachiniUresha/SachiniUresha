@@ -1,81 +1,97 @@
-<!--
-**SachiniUresha/SachiniUresha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- README.md for your GitHub profile -->
-<h1 align="center">Hi there 👋, I'm Sachini Weerakkody</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 Devops Enthusiast | 🎨 Blogger</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Sachini Weerakkody</h1>
+<p align="center">
+  🚀 Passionate Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud Learner | ✍️ Tech Blogger
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FEEF&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new.;Love+building+cool+things." alt="Typing SVG" />
+</p>
+
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sachiniuresha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 I'm currently a 3rd year undergraduate of Software Engineering at University of Kelaniya
-- 🌱 I’m currently learning devops and fullstack development
-- 👯 I’m looking to collaborate on **Open Source / Side Projects**
-- 💬 Ask me about **Web Dev, APIs, React, Git, or anything!**
-- 📫 Reach me at: [Email] | [LinkedIn] | [Portfolio link]
 
+- 🎓 I'm a third-year Software Engineering undergraduate at the University of Kelaniya.
+
+- 💻 I'm passionate about full-stack development, DevOps, and cloud technologies.
+
+- 🛠️ I enjoy learning new tools and frameworks to build better solutions.
+
+- ✍️ I blog to share knowledge and grow with the tech community.
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+### 🛠️ Tech Stack
 
-
-### 🛠️ Languages & Tools
-
+#### 🧠 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,python,cs,c,kotlin" />
+</p>
+
+#### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,spring,php" />
+</p>
+
+#### 🗄️ Database Management
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+#### ⚙️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,androidstudio,visualstudio,pycharm" />
+</p>
+
+#### 🗃️ Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+#### ☁️ Cloud Technology
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+#### 🛠️ Other Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,figma" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 
+<!-- GitHub Stats Card with Streak and Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachiniuresha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachiniuresha&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiniuresha&layout=compact&theme=radical" alt="Top Languages" />
+  
 </p>
-
----
-
-### 🧩 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=react-dark" alt="activity graph" />
-</p>
-
----
-
-### 🎯 Quote of the Day
-
-> _"Your limitation—it's only your imagination."_
 
 ---
 
 ### 📫 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://yourportfolio.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:dsuweerakkody19@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://medium.com/@yourmedium" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
 </p>
 
 ---
 
-*Thank you for visiting my profile! ⭐ Don’t forget to follow me!*
-
-
+### 🙏 Thank you for visiting my profile! ⭐ Don’t forget to follow me!
