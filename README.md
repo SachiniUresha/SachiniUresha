@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️🛠️ Tech Stack
 
 #### 🧠 Programming Languages
 <p align="left">
@@ -83,8 +83,8 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [My Portfolio Website](https://github.com/username/portfolio) – Personal website built with HTML and CSS.  
-- 🛒 [E-Commerce App](https://github.com/username/ecommerce-app) – MERN stack e-commerce app with admin dashboard.
+- 🔗 [My Portfolio Website](https://sachiniuresha.github.io/my-portfolio/) – Personal website built with HTML and CSS.  
+- 🛒 [E-Commerce App](https://kisal-audio-frontend.vercel.app/) – MERN stack e-commerce app with admin dashboard.
 
 ---
 
@@ -96,4 +96,4 @@
 
 ---
 
-### 🙏 Thank you for visiting my profile! 🌟 Don’t forget to follow me!
+### 🙏 Thank you for visiting my profile! 💖 Don’t forget to follow me!
